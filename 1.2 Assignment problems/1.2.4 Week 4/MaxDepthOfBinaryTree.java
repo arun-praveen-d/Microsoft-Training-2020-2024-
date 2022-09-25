@@ -1,7 +1,5 @@
 class Solution {
     public int maxDepth(TreeNode root) {
-        
-        
         return height(root);
     }
     public int height(TreeNode root){
